@@ -5,8 +5,8 @@
   
   ![Page 1](Laravel_Notifications.png)
   ![Page 2](Email.png)
-  ![Page 2](Slack.png)
-  ![Page 2](SMS.png)
+  ![Page 3](Slack.png)
+  ![Page 4](SMS.png)
 </details>
 
 ## Requirements
