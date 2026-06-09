@@ -626,7 +626,7 @@
   * Creación de middleware personalizado
   * Orden de ejecución
   * Exception handling middleware
-- Configuración
+- [Configuración](./PHASE%207/ASP.NET%20Core/Configuration/Configuration.md)
   * `appsettings.json`, `appsettings.Development.json`
   * `IConfiguration`, `IOptions<T>`
   * Variables de entorno en .NET
