@@ -709,7 +709,7 @@
 - Autorización: Gates y Policies
 - Queues y Jobs (colas de trabajo)
 - Events y Listeners
-- Notificaciones: email, SMS, Slack **[1]**
+- [Notificaciones: email, SMS, Slack](./PHASE%208/Laravel/Notifications:%20email,%20SMS,%20Slack.md)
 - Almacenamiento de archivos (Storage Facade, S3)
 - Caché: Redis, Memcached
 - Artisan CLI
