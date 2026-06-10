@@ -97,6 +97,8 @@
   * Encapsulamiento (`_`, `__`)
   * Herencia y `super()`
   * Métodos mágicos (`__str__`, `__repr__`, `__eq__`, etc.)
+  * Polimorfismo
+  * Abstraccion
 - Módulos y paquetes
   * `import`, `from ... import`
   * Crear tus propios módulos
